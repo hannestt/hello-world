@@ -1,2 +1,2 @@
 # hello-world
-This is a first ever stab at using github
+This is a my first ever stab at using creating github repository
