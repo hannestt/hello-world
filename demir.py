@@ -7,4 +7,5 @@
 def demire(x, y):
     return x + y
 
-print(demire(5,6))
+if __name__ == "__main__":
+    print(demire(5,6))
